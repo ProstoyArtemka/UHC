@@ -1,0 +1,10 @@
+name: UHC
+version: '${project.version}'
+main: pa.greenvox.ru.uhc.UHC
+api-version: 1.19
+authors: [ ProstoyArtemka ]
+description: Simple UHC Plugin
+commands:
+  uhc_start:
+    description: Command for starting uhc
+    usage: /uhc_start
